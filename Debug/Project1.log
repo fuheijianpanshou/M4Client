@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005:  'APIENTRY': macro redefinition
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\include\GLFW\glfw3.h(123): message :  see previous definition of 'APIENTRY'
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(98,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(99,22): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(99,15): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(100,24): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(100,16): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(115,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(156,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(160,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(163,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(135,1): warning C4996:  'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\Winsock2.h(1831): message :  see declaration of 'inet_addr'
+C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\main.cpp(144,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  see declaration of 'sprintf'
+  Project1.vcxproj -> C:\Users\Jack\Desktop\opengl\openGLProgect\Project1\Debug\Project1.exe
